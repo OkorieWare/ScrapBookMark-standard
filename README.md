@@ -8,9 +8,9 @@ OkorieWare ™ ScrapBookMark is an offline webpage archiver, in the spirit of th
 
 Copyright © 2019 OkorieWare ™
 
-[Latest Release](https://github.com/OkorieWare/ScrapBookMark-standard/releases/tag/v1.0.0)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/ScrapBookMark-standard)](https://github.com/OkorieWare/ScrapBookMark-standard/releases/latest)
 
-[Homepage](https://okorieware.ga/scrapbookmark/)
+[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://okorieware.ga/scrapbookmark/)
 
 ## Screenshot
 
