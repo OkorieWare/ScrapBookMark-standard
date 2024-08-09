@@ -12,7 +12,7 @@ Copyright © 2019 OkorieWare ™
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/OkorieWare/ScrapBookMark-standard)](https://github.com/OkorieWare/ScrapBookMark-standard/releases/latest)
 
-[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://okorieware.ga/scrapbookmark/)
+[![Homepage: OkorieWare Software House](https://img.shields.io/badge/homepage-OkorieWare%20Software%20House-orange)](https://github.com/OkorieWare/ScrapBookMark-standard/)
 
 ## Screenshot
 
